@@ -1,7 +1,5 @@
 name: jpt
 channels:
-  - anaconda
-  - conda-forge
   - defaults
 dependencies:
   - pytorch::torchvision=0.8
