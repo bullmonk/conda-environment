@@ -1,0 +1,15 @@
+name: jpt
+channels:
+  - anaconda
+  - conda-forge
+  - defaults
+dependencies:
+  - pytorch::torchvision=0.8
+  - pytorch::pytorch=1.7
+  - numpy=1.22
+  - pyyaml=6.0
+  - matplotlib=3.5
+  - scipy=1.7
+  - future=0.18
+  - captum=0.5
+  - Jinja2=3.0.3
